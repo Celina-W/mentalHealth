@@ -1,3 +1,3 @@
-# mentalHealth
-## Girls Who Code Impact Project 2017-2018
-A website created by the Girls Who Code club of the Central Queens Y for mental health awareness and stress relief.
+# mentalHealth Code Snippets
+## About
+This repository is meant to showcase a number of personal code snippets from work I did on the Girl's Who Code mentalHealth Impact Project.
